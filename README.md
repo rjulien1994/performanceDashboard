@@ -1,7 +1,6 @@
 # performanceDashboard
 Car style dashboard to monitor pc performance
 
-![DashBoard](capture.png)
-Format: ![Alt Text](url)
+![performanceDashboard](img/capture.png)
 
 The description will follow soon
